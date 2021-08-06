@@ -1,0 +1,19 @@
+-------> Filters <--------
+ Web API includes filters to add extra logic before or after action method executes. Filters can be used to provide
+ cross-cutting features such as logging, exception handling, performance measurement, authentication and authorization.
+-------> JWT (JSON Web Token) <-----------
+	Token is like a movie ticket
+	used For Authorisation not authentication
+
+	Header,Payload,Signatures
+	xxxxx.yyyyyy.zzzzzzz
+
+	Header :
+	HS256 algorithm, type
+-------> Custom Attributes <------------
+[obsolete]
+
+ Fluent Validation contains .NET libraries and the validation is performed using the Lambda expression
+
+
+224073
